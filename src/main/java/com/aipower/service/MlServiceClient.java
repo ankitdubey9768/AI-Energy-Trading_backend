@@ -10,7 +10,7 @@ public class MlServiceClient {
     private final RestClient restClient;
     
     public MlServiceClient() {
-        this.restClient = RestClient.create("http://127.0.0.1:8000");
+        this.restClient = RestClient.create("https://ai-energy-trading-ml-service.onrender.com");
     }
     
     public Object getForecast(String market, String date) {
