@@ -1,0 +1,9 @@
+com\aipower\model\BidDraft.class
+com\aipower\controller\BiddingController.class
+com\aipower\controller\WorkflowController.class
+com\aipower\model\BidSubmission.class
+com\aipower\service\RiskService.class
+com\aipower\AIPowerApplication.class
+com\aipower\repository\BidDraftRepository.class
+com\aipower\repository\BidSubmissionRepository.class
+com\aipower\service\MlServiceClient.class
